@@ -1,0 +1,8 @@
+{
+  "name": "Synapse: Digital Twin",
+  "description": "A sophisticated digital twin of your brain. Interact via text, voice, and files to build a persistent mindmap, extract tasks, and track your cognitive growth.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
